@@ -1,0 +1,55 @@
+[cap: intro]
+estuve recibiendo invitaciones sutiles. son sugerencias.
+(user: click)
+distintas acciones como respuestas. entendí que era hora de una comunicación activa, un ida y vuelta.
+(user: click)
+los elementos ya los tenía de antes. nada muy elaborado. mi espejo, mi bisturí, mi lupa.... mi cuerpo.
+(user: click)
+ह्रीं
+॥ श्रीं ह्रीं क्लीं ऐं वज्र वैरोचनीयै हूं हूं फट् स्वाहा॥
+ह्रीं 
+(user: click)
+hay un millón de cosas que entiendo, y un par o un poco más que sí entiendo. 
+(user: click)
+Me vienen pasando cosas que me reafirman, este cuerpo parece un obstáculo, pero es mi espejo, mi bisturí, mi lupa.
+Lo voy a recorrer.
+[/cap: intro]
+(pantalla: aparece la interfaz. se puede ver un espejo barroco en donde se ve una cara. arriba hay una barra de herramientas con una lupa, un bisturí y un espejo. el espejo está deshabilitado en este momento. en el costado derecho se ve una animación abstracta. al costado izquierdo hay un panel con una red conceptual, donde se puede ver el símbolo maya del verbo conjurar: una mano agarrando a un pescado)  
+[cap: ojos]
+(user: lupa sobre el ojo)
+ver más allá de la visión.
+con la visión interna.
+(sonido:  empieza loop 1 ojo, mas ambient)
+(pantalla: aparece en lugar del espejo, un diagrama animado de la visión humana, estetizada. el ícono del espejo en la barra de herramientas aparece habilitado, se deshabilita la lupa)
+(pantalla: aparecen cosas reflejadas en el ojo, gusanos y entes en el circuito)
+(user clickea pantalla: no pasa nada)
+(user clickea espejo: se vuelve atrás, se ve la cara, sonido: sigue el loop 1)
+(user: navaja sobre el ojo)
+(sonido: loop 2 de ojo, se dinamiza)
+la acción es una forma de comunicación para ir más allá del lenguaje.
+incluso este pensamiento
+...
+(pantalla: aparece mano con navaja)
+(user clickea pantalla: no pasa nada)
+(user clickea espejo: se va al diagrama, sonido: se mantiene loop 2)
+(user clickea navaja)
+(pantalla:cambio de iluminación de la cara en el espejo. el foco está enteramente en la zona del ojo y la navaja)
+(user clickea navaja)
+(sonido: loop 3 climax de ojo)
+realmente
+...
+hago entrega
+renuncio la visión
+(pantalla: animación mano de navaja, fps=5, sonido: fx )
+(pantalla: desaparece mano de navaja)
+(pantalla: strobe negro rojo blanco)
+(pantalla: animación ojo con sangre 2seg)
+(pantalla: animación mano de navaja, fps=5, sonido: fx )
+(pantalla: strobe negro rojo blanco)
+(pantalla: animación mano de navaja, fps=5, sonido: fx )
+(pantalla: strobe negro rojo blanco)
+(pantalla: negro)
+(sonido: loop 4, ambient outro)
+(pantalla: fundido de negro a la interfaz.)
+(pantalla: lo que se ve ha cambiado. ha cambiado la visión, se ve como un filtro - cambia el estilo, los colores. la cara en el espejo ya no tiene ojos pero algo brilla en los agujeros donde deberían haber ojos)
+[/cap: ojos]
